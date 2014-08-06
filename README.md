@@ -1,6 +1,6 @@
 MovieList
 =========
-Hi Im Jeszy and Im new here! Please be considerate if I make unnecessary
+Hi Im Joseph and Im new here! Please be considerate if I make unnecessary
 changes or commit mistakes. I will do my best in learning GitHub so I may
 eliminate all my inappropriate actions. Thank you!
 
