@@ -1,3 +1,6 @@
 ﻿John joseph isleta
 issue 1
 issue 1
+
+Too many Issues;
+For(i=0;i>=10;i++)
