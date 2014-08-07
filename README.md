@@ -1,3 +1,0 @@
-TrialProject
-============
-John Joseph Isleta
